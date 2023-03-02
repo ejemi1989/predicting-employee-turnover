@@ -16,7 +16,7 @@ XGBoost: XGBoost is a Python library used for building and training gradient boo
 
 Jupyter Notebook: Jupyter Notebook is an open-source web application used for interactive computing and data analysis.
 
-Dataset
+Dataset:
 The dataset used for this project includes employee demographic data, job performance data, and turnover status data. The dataset contains the following features:
 
 Age: Age of the employee.
@@ -55,7 +55,7 @@ YearsInCurrentRole: Number of years the employee has worked in the current role.
 YearsSinceLastPromotion: Number of years since the employee's last promotion.
 YearsWithCurrManager: Number of years the employee has worked with the current manager.
 
-Insights
+Insights:
 After exploring and analyzing the data, several insights were discovered:
 
 Employees who are younger, have lower job satisfaction, have lower performance ratings, and have worked for fewer years at the company are more likely to leave.
@@ -69,5 +69,6 @@ The XGBoost model achieved an accuracy of 84% in predicting employee turnover.
 The model can be used to identify employees who are at high risk of leaving the company and take proactive measures to retain them.
 
 
-Why the Project Works
+Why the Project Works:
+
 This project works because it demonstrates the power of data science and machine learning in predicting employee turnover and identifying opportunities for retention. By analyzing employee demographic and job performance data, the project provides valuable insights into the factors that influence employee turnover and the types of employees who are most likely to leave the company. The predictive model developed using XGBoost enables the human resources department to identify high-risk employees and take proactive measures to retain them, such as offering training and development opportunities, adjusting compensation and benefits packages, or improving work-life balance. Overall, this project showcases the value of data-driven decision making in improving employee engagement and retention
