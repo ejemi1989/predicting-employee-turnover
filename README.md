@@ -56,6 +56,7 @@ YearsSinceLastPromotion: Number of years since the employee's last promotion.
 YearsWithCurrManager: Number of years the employee has worked with the current manager.
 
 Insights:
+
 After exploring and analyzing the data, several insights were discovered:
 
 Employees who are younger, have lower job satisfaction, have lower performance ratings, and have worked for fewer years at the company are more likely to leave.
